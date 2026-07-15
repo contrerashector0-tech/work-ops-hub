@@ -1,0 +1,906 @@
+[
+  {
+    "name": "13430 A",
+    "longitude": -106.3720519392646,
+    "latitude": 31.83385075017945,
+    "altitude": 1205.611305428887,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83385075017945,-106.3720519392646"
+  },
+  {
+    "name": "13429 A",
+    "longitude": -106.3720503344149,
+    "latitude": 31.83394893951386,
+    "altitude": 1205.493140009436,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83394893951386,-106.3720503344149"
+  },
+  {
+    "name": "13400 A",
+    "longitude": -106.3748979590946,
+    "latitude": 31.83402995133739,
+    "altitude": 1213.624263403188,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83402995133739,-106.3748979590946"
+  },
+  {
+    "name": "13400 B",
+    "longitude": -106.3749138945522,
+    "latitude": 31.8330659113435,
+    "altitude": 1213.47144380734,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8330659113435,-106.3749138945522"
+  },
+  {
+    "name": "13448 A",
+    "longitude": -106.3697224609872,
+    "latitude": 31.8338914241878,
+    "altitude": 1205.601888412989,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8338914241878,-106.3697224609872"
+  },
+  {
+    "name": "13405 A",
+    "longitude": -106.3726922649014,
+    "latitude": 31.83380008943,
+    "altitude": 1202.211470538119,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83380008943,-106.3726922649014"
+  },
+  {
+    "name": "13434 A",
+    "longitude": -106.3717617170926,
+    "latitude": 31.83385687504795,
+    "altitude": 1205.365347658656,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83385687504795,-106.3717617170926"
+  },
+  {
+    "name": "13427 Fuel Point",
+    "longitude": -106.3719611149426,
+    "latitude": 31.8350506934981,
+    "altitude": 1202.155129271281,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8350506934981,-106.3719611149426"
+  },
+  {
+    "name": "13433 A",
+    "longitude": -106.3717615433851,
+    "latitude": 31.83394774348372,
+    "altitude": 1205.330233973337,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83394774348372,-106.3717615433851"
+  },
+  {
+    "name": "11212 A",
+    "longitude": -106.3821779968811,
+    "latitude": 31.83373322244793,
+    "altitude": 1210.100088025392,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83373322244793,-106.3821779968811"
+  },
+  {
+    "name": "13427 A",
+    "longitude": -106.3720689581626,
+    "latitude": 31.83350497518158,
+    "altitude": 1215.566466273609,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83350497518158,-106.3720689581626"
+  },
+  {
+    "name": "11308 A",
+    "longitude": -106.3779837820439,
+    "latitude": 31.83373219436629,
+    "altitude": 1211.752470250168,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83373219436629,-106.3779837820439"
+  },
+  {
+    "name": "11203 A",
+    "longitude": -106.388056255884,
+    "latitude": 31.83368687972525,
+    "altitude": 1200.255927099004,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83368687972525,-106.388056255884"
+  },
+  {
+    "name": "11212 B",
+    "longitude": -106.3839519277525,
+    "latitude": 31.83374288246036,
+    "altitude": 1210.655741161986,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83374288246036,-106.3839519277525"
+  },
+  {
+    "name": "2425 B",
+    "longitude": -106.4131642284383,
+    "latitude": 31.80824768761453,
+    "altitude": 1190.903444220488,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.80824768761453,-106.4131642284383"
+  },
+  {
+    "name": "2425 C",
+    "longitude": -106.4129566904484,
+    "latitude": 31.80809514869253,
+    "altitude": 1190.92089540801,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.80809514869253,-106.4129566904484"
+  },
+  {
+    "name": "2466 A",
+    "longitude": -106.4178464334434,
+    "latitude": 31.81344481597647,
+    "altitude": 1195.474008875894,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81344481597647,-106.4178464334434"
+  },
+  {
+    "name": "2462 B",
+    "longitude": -106.4178385522927,
+    "latitude": 31.81548771914809,
+    "altitude": 1195.411874234837,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81548771914809,-106.4178385522927"
+  },
+  {
+    "name": "2462 A",
+    "longitude": -106.417748397719,
+    "latitude": 31.81505202108433,
+    "altitude": 1195.199279808291,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81505202108433,-106.417748397719"
+  },
+  {
+    "name": "2484 A",
+    "longitude": -106.4177715186489,
+    "latitude": 31.81755333706593,
+    "altitude": 1188.976164449143,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81755333706593,-106.4177715186489"
+  },
+  {
+    "name": "2484 B",
+    "longitude": -106.4177380940372,
+    "latitude": 31.81803387808509,
+    "altitude": 1196.772050671499,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81803387808509,-106.4177380940372"
+  },
+  {
+    "name": "2484 C",
+    "longitude": -106.4177328662586,
+    "latitude": 31.81831920313187,
+    "altitude": 1196.82393853747,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81831920313187,-106.4177328662586"
+  },
+  {
+    "name": "2484 D",
+    "longitude": -106.4177159949652,
+    "latitude": 31.81858062243214,
+    "altitude": 1196.968947594971,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81858062243214,-106.4177159949652"
+  },
+  {
+    "name": "2984 A",
+    "longitude": -106.4096620023879,
+    "latitude": 31.8172386268433,
+    "altitude": 1193.834709079017,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8172386268433,-106.4096620023879"
+  },
+  {
+    "name": "2690 A",
+    "longitude": -106.4116446715806,
+    "latitude": 31.81729583579039,
+    "altitude": 1197.903266170095,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81729583579039,-106.4116446715806"
+  },
+  {
+    "name": "2643 A",
+    "longitude": -106.4140780605899,
+    "latitude": 31.82287428603379,
+    "altitude": 1195.720964595691,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82287428603379,-106.4140780605899"
+  },
+  {
+    "name": "5770 A",
+    "longitude": -106.4167453214467,
+    "latitude": 31.80226037160287,
+    "altitude": 1194.893779358239,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.80226037160287,-106.4167453214467"
+  },
+  {
+    "name": "5780 A",
+    "longitude": -106.4149507011546,
+    "latitude": 31.80227995623924,
+    "altitude": 1196.887214160364,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.80227995623924,-106.4149507011546"
+  },
+  {
+    "name": "5790 A",
+    "longitude": -106.4132632511269,
+    "latitude": 31.80223390510841,
+    "altitude": 1202.547714620879,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.80223390510841,-106.4132632511269"
+  },
+  {
+    "name": "1067 A",
+    "longitude": -106.4225893541879,
+    "latitude": 31.81085170065564,
+    "altitude": 1183.258839342092,
+    "description": "SAA 1067 A 212th Military Police POC: SPC Richardson, Michael (540) 616-8164 Altaha, Wes Waste Streams: UW Aerosol Cans 55gal N/R Recyclable Jet Fuel 55gal N/R Used Green Antifreeze 55gal N/R Used Rags w POL 55gal N/R Used Oil Filters 55gal N/R Recyclable Metal Fuel Filters 55gal N/R Empty Oil Cans 55gal N/R Used Drysweep 55gal N/R Used Grease 55gal",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81085170065564,-106.4225893541879"
+  },
+  {
+    "name": "1053 A",
+    "longitude": -106.4246428541864,
+    "latitude": 31.81098106625806,
+    "altitude": 1184.094314388036,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81098106625806,-106.4246428541864"
+  },
+  {
+    "name": "1050 A",
+    "longitude": -106.4257293043905,
+    "latitude": 31.81123301682002,
+    "altitude": 1186.713299436408,
+    "description": "SAA 1050 A 978th Military Police POC: SFC Rodriguez, Eddie (760) 208-0201 Waste Streams: HW Toxic Jet Fuel cont. w Benzene 55gal UW Aerosol Cans 55gal N/R Used Oil 55gal N/R Used Rags w POL 55gal N/R Used Oil Filters 55gal N/R Recyclable Metal Fuel Filters 55gal N/R Used Green Antifreeze 55gal N/R Empty Oil Cans 55gal N/R Used Grease 55gal N/R Used Drysweep 55gal",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81123301682002,-106.4257293043905"
+  },
+  {
+    "name": "A913 A",
+    "longitude": -106.3589408236309,
+    "latitude": 31.83616050346221,
+    "altitude": 1206.854586490552,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83616050346221,-106.3589408236309"
+  },
+  {
+    "name": "1780 A",
+    "longitude": -106.4243657779013,
+    "latitude": 31.81947899061325,
+    "altitude": 1183.901140864418,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81947899061325,-106.4243657779013"
+  },
+  {
+    "name": "1124 A",
+    "longitude": -106.4246995891574,
+    "latitude": 31.81425071957439,
+    "altitude": 1185.96829700087,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81425071957439,-106.4246995891574"
+  },
+  {
+    "name": "1251 A",
+    "longitude": -106.4234104977354,
+    "latitude": 31.81554277948141,
+    "altitude": 1186.13965678482,
+    "description": "NRAP 1251A Pride Electric POC: Hector Servian (915) 726-4295 Waste Streams: -UW Fluorescent Lamps x5 + 1Long + 1Small -UW Lithium Batteries 55gal -UW Lead Acid Batteries 55gal -UW NiCad Batteries 55gal -UW Aerosol Cans 30gal -N/R Used Ballasts -N/R Used Rags w POL -N/R Empty Oil Cans 55gal -N/R Used Oil Filters 55gal -N/R Used Oil 55gal -N/R Used Green Antifreeze 55gal",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81554277948141,-106.4234104977354"
+  },
+  {
+    "name": "1139 A",
+    "longitude": -106.4219006106699,
+    "latitude": 31.81507440154531,
+    "altitude": 1188.128844420596,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81507440154531,-106.4219006106699"
+  },
+  {
+    "name": "1069 A",
+    "longitude": -106.4224857157163,
+    "latitude": 31.81043871599933,
+    "altitude": 1187.887408415531,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81043871599933,-106.4224857157163"
+  },
+  {
+    "name": "1069 B",
+    "longitude": -106.4219560505346,
+    "latitude": 31.81079015306733,
+    "altitude": 1186.817418729861,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81079015306733,-106.4219560505346"
+  },
+  {
+    "name": "1073 C",
+    "longitude": -106.4223335694151,
+    "latitude": 31.81128267471591,
+    "altitude": 1188.757422625543,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81128267471591,-106.4223335694151"
+  },
+  {
+    "name": "1334 A",
+    "longitude": -106.4322358292314,
+    "latitude": 31.81406615317547,
+    "altitude": 1193.49887181377,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81406615317547,-106.4322358292314"
+  },
+  {
+    "name": "2509 A",
+    "longitude": -106.4200580719378,
+    "latitude": 31.82186722851523,
+    "altitude": 1184.738507508883,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82186722851523,-106.4200580719378"
+  },
+  {
+    "name": "1111 A",
+    "longitude": -106.4251227399824,
+    "latitude": 31.81304724873006,
+    "altitude": 1189.694347732781,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81304724873006,-106.4251227399824"
+  },
+  {
+    "name": "1118 A",
+    "longitude": -106.4240729875592,
+    "latitude": 31.8134955753056,
+    "altitude": 1189.349440664354,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8134955753056,-106.4240729875592"
+  },
+  {
+    "name": "1122 A",
+    "longitude": -106.4260687776473,
+    "latitude": 31.81397347622505,
+    "altitude": 1192.742847621972,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81397347622505,-106.4260687776473"
+  },
+  {
+    "name": "820 A",
+    "longitude": -106.430509680003,
+    "latitude": 31.81080061410164,
+    "altitude": 1189.732466851354,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81080061410164,-106.430509680003"
+  },
+  {
+    "name": "820 B",
+    "longitude": -106.4305070371302,
+    "latitude": 31.81080892061694,
+    "altitude": 1189.737240747888,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81080892061694,-106.4305070371302"
+  },
+  {
+    "name": "1620 A",
+    "longitude": -106.4270822218725,
+    "latitude": 31.81473996895258,
+    "altitude": 1193.159486941368,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81473996895258,-106.4270822218725"
+  },
+  {
+    "name": "2949 A",
+    "longitude": -106.4131593777116,
+    "latitude": 31.80681479512658,
+    "altitude": 1189.666907458281,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.80681479512658,-106.4131593777116"
+  },
+  {
+    "name": "3006 A",
+    "longitude": -106.4352473565594,
+    "latitude": 31.8355768985748,
+    "altitude": 1193.330821807702,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8355768985748,-106.4352473565594"
+  },
+  {
+    "name": "3730 A",
+    "longitude": -106.3730936045497,
+    "latitude": 31.90392053982385,
+    "altitude": 1201.009824198592,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.90392053982385,-106.3730936045497"
+  },
+  {
+    "name": "11251 A",
+    "longitude": -106.3874467623649,
+    "latitude": 31.83091570568765,
+    "altitude": 1204.600079432752,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.83091570568765,-106.3874467623649"
+  },
+  {
+    "name": "3500 A",
+    "longitude": -106.4437385671789,
+    "latitude": 31.84136741650914,
+    "altitude": 1218.378381247389,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.84136741650914,-106.4437385671789"
+  },
+  {
+    "name": "4797 A",
+    "longitude": -106.4507772244731,
+    "latitude": 31.8417941187859,
+    "altitude": 1246.323210121455,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8417941187859,-106.4507772244731"
+  },
+  {
+    "name": "195 A",
+    "longitude": -106.4331085773158,
+    "latitude": 31.81067169391221,
+    "altitude": 1188.152742344774,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81067169391221,-106.4331085773158"
+  },
+  {
+    "name": "2930 A",
+    "longitude": -106.4063359437461,
+    "latitude": 31.81389174210532,
+    "altitude": 1194.169579249593,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81389174210532,-106.4063359437461"
+  },
+  {
+    "name": "2499 A",
+    "longitude": -106.4199140282929,
+    "latitude": 31.8118532604824,
+    "altitude": 1185.352208732291,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8118532604824,-106.4199140282929"
+  },
+  {
+    "name": "5035 A",
+    "longitude": -106.4242820473453,
+    "latitude": 31.79839361341438,
+    "altitude": 1200.345276504045,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.79839361341438,-106.4242820473453"
+  },
+  {
+    "name": "5036 A",
+    "longitude": -106.4264469443797,
+    "latitude": 31.79834785032843,
+    "altitude": 1189.052950854056,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.79834785032843,-106.4264469443797"
+  },
+  {
+    "name": "11199 A",
+    "longitude": -106.3910032735433,
+    "latitude": 31.82851855327601,
+    "altitude": 1194.47523116605,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82851855327601,-106.3910032735433"
+  },
+  {
+    "name": "11388 A",
+    "longitude": -106.3823399936914,
+    "latitude": 31.82390926053944,
+    "altitude": 1198.116237341558,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82390926053944,-106.3823399936914"
+  },
+  {
+    "name": "20732 A",
+    "longitude": -106.3550553651713,
+    "latitude": 31.84731695108596,
+    "altitude": 1200.242564143499,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.84731695108596,-106.3550553651713"
+  },
+  {
+    "name": "20733 A",
+    "longitude": -106.3534412500755,
+    "latitude": 31.84881936457116,
+    "altitude": 1203.904189853521,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.84881936457116,-106.3534412500755"
+  },
+  {
+    "name": "20751 A",
+    "longitude": -106.3550003213737,
+    "latitude": 31.85034675160388,
+    "altitude": 1208.944542636901,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.85034675160388,-106.3550003213737"
+  },
+  {
+    "name": "2588 A",
+    "longitude": -106.4188856220152,
+    "latitude": 31.82320791827776,
+    "altitude": 1185.235061674369,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82320791827776,-106.4188856220152"
+  },
+  {
+    "name": "2588 B",
+    "longitude": -106.4188541782432,
+    "latitude": 31.8232081566755,
+    "altitude": 1185.217307719553,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8232081566755,-106.4188541782432"
+  },
+  {
+    "name": "2588 C",
+    "longitude": -106.4202945075467,
+    "latitude": 31.82277389446702,
+    "altitude": 1182.467063775428,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82277389446702,-106.4202945075467"
+  },
+  {
+    "name": "2588 D",
+    "longitude": -106.420222375596,
+    "latitude": 31.82280659203142,
+    "altitude": 1187.369567857349,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82280659203142,-106.420222375596"
+  },
+  {
+    "name": "2592 A",
+    "longitude": -106.4206209399108,
+    "latitude": 31.82471880550328,
+    "altitude": 1194.255009361345,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82471880550328,-106.4206209399108"
+  },
+  {
+    "name": "2592 B",
+    "longitude": -106.4206459441779,
+    "latitude": 31.82471641710735,
+    "altitude": 1194.755137435129,
+    "description": "docs.google.com/document/d/12NjjhzqIdTMJiFrw_oSHmWOh1oTgpmkh3aLX_31rIp4/edit Sap 2592 B H/W Fiber Fuel Filters 55gal U/W Mixed Aerosol Cans 55gal Used Rags cont w/ pol 55gal Used Drysweep cont w/pol Empty Oil cans 55gal Recycle Metal Fuel Filters 55gal Soil cont w/ pol 55gal Seals cont w/pol 55gal Oil Filters 55gal Grease 55gal",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82471641710735,-106.4206459441779"
+  },
+  {
+    "name": "2529 A",
+    "longitude": -106.4189125245111,
+    "latitude": 31.82166667362582,
+    "altitude": 1185.518153762763,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82166667362582,-106.4189125245111"
+  },
+  {
+    "name": "2527 A",
+    "longitude": -106.4181632304875,
+    "latitude": 31.8202290309122,
+    "altitude": 1192.323873622031,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8202290309122,-106.4181632304875"
+  },
+  {
+    "name": "1106 A",
+    "longitude": -106.4243461101998,
+    "latitude": 31.81271047705845,
+    "altitude": 1192.485570832585,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81271047705845,-106.4243461101998"
+  },
+  {
+    "name": "2515 A",
+    "longitude": -106.4202925523501,
+    "latitude": 31.82149115007461,
+    "altitude": 1185.783752866434,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82149115007461,-106.4202925523501"
+  },
+  {
+    "name": "2515 B",
+    "longitude": -106.4202614343922,
+    "latitude": 31.82149485003788,
+    "altitude": 1185.773566557664,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82149485003788,-106.4202614343922"
+  },
+  {
+    "name": "2674 A",
+    "longitude": -106.4120315743214,
+    "latitude": 31.82101544470943,
+    "altitude": 1192.748073174716,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82101544470943,-106.4120315743214"
+  },
+  {
+    "name": "2932 A",
+    "longitude": -106.4072711963727,
+    "latitude": 31.81666781899641,
+    "altitude": 1192.630209331425,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81666781899641,-106.4072711963727"
+  },
+  {
+    "name": "2607 A",
+    "longitude": -106.413863997234,
+    "latitude": 31.8201043910506,
+    "altitude": 1185.439644645714,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8201043910506,-106.413863997234"
+  },
+  {
+    "name": "2638 A",
+    "longitude": -106.4169901960272,
+    "latitude": 31.8245244396875,
+    "altitude": 1186.249086693824,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.8245244396875,-106.4169901960272"
+  },
+  {
+    "name": "5810 A",
+    "longitude": -106.4167727760918,
+    "latitude": 31.80557099996707,
+    "altitude": 1188.303180919023,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.80557099996707,-106.4167727760918"
+  },
+  {
+    "name": "2466 A",
+    "longitude": -106.4179088867535,
+    "latitude": 31.81326502131006,
+    "altitude": 1195.471555905279,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81326502131006,-106.4179088867535"
+  },
+  {
+    "name": "ST25B",
+    "longitude": -106.4208613295427,
+    "latitude": 31.81937509456293,
+    "altitude": 1182.04782952545,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.81937509456293,-106.4208613295427"
+  },
+  {
+    "name": "Range 88",
+    "longitude": -105.9920202046185,
+    "latitude": 32.40983010703288,
+    "altitude": 1248.216195419051,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.40983010703288,-105.9920202046185"
+  },
+  {
+    "name": "Range 83",
+    "longitude": -106.0491357793864,
+    "latitude": 32.30223785045909,
+    "altitude": 1305.611072687883,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.30223785045909,-106.0491357793864"
+  },
+  {
+    "name": "Range 50",
+    "longitude": -106.5304509462716,
+    "latitude": 32.19518286299663,
+    "altitude": 1402.256576941379,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.19518286299663,-106.5304509462716"
+  },
+  {
+    "name": "8283 B",
+    "longitude": -106.5029991762652,
+    "latitude": 32.14590881866173,
+    "altitude": 1241.438931976227,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.14590881866173,-106.5029991762652"
+  },
+  {
+    "name": "8283 A",
+    "longitude": -106.5037020451212,
+    "latitude": 32.14619102085214,
+    "altitude": 1241.902535953166,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.14619102085214,-106.5037020451212"
+  },
+  {
+    "name": "8283 C",
+    "longitude": -106.5023916044399,
+    "latitude": 32.14516718624235,
+    "altitude": 1241.661453608786,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.14516718624235,-106.5023916044399"
+  },
+  {
+    "name": "8270 A",
+    "longitude": -106.5069987005984,
+    "latitude": 32.14796798666562,
+    "altitude": 1244.921418605048,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.14796798666562,-106.5069987005984"
+  },
+  {
+    "name": "Range 61",
+    "longitude": -106.4246804729963,
+    "latitude": 32.19291745202641,
+    "altitude": 1223.826269384641,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.19291745202641,-106.4246804729963"
+  },
+  {
+    "name": "Range 65",
+    "longitude": -106.4334800886188,
+    "latitude": 32.26918426795642,
+    "altitude": 1247.010139402609,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.26918426795642,-106.4334800886188"
+  },
+  {
+    "name": "Range 66",
+    "longitude": -106.4391588141938,
+    "latitude": 32.29592757656616,
+    "altitude": 1250.092983880884,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.29592757656616,-106.4391588141938"
+  },
+  {
+    "name": "9433 A",
+    "longitude": -106.1828433788155,
+    "latitude": 32.08390195272691,
+    "altitude": 1252.405464610748,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.08390195272691,-106.1828433788155"
+  },
+  {
+    "name": "9433 B",
+    "longitude": -106.1823434667432,
+    "latitude": 32.08390931960288,
+    "altitude": 1252.579754854416,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.08390931960288,-106.1823434667432"
+  },
+  {
+    "name": "9482 A",
+    "longitude": -106.1833817545314,
+    "latitude": 32.07507996580554,
+    "altitude": 1246.085720252633,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07507996580554,-106.1833817545314"
+  },
+  {
+    "name": "9482 B",
+    "longitude": -106.1833813014815,
+    "latitude": 32.07511537047564,
+    "altitude": 1246.289242739879,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07511537047564,-106.1833813014815"
+  },
+  {
+    "name": "9482 C",
+    "longitude": -106.1833885148331,
+    "latitude": 32.07514827822605,
+    "altitude": 1246.432847286352,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07514827822605,-106.1833885148331"
+  },
+  {
+    "name": "9482 D",
+    "longitude": -106.1828412751155,
+    "latitude": 32.07551891800817,
+    "altitude": 1247.161990472163,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07551891800817,-106.1828412751155"
+  },
+  {
+    "name": "9527 A",
+    "longitude": -106.1750632082199,
+    "latitude": 32.07695715615645,
+    "altitude": 1252.244241110771,
+    "description": "NRAP 9527 A Pride Utility Section POC: Hector Servian (915) 726-4295 Justin Hernandez Waste Streams: UW Aerosol Cans 55gal N/R Used Oil 55gal N/R Used Green Antifreeze 55gal N/R Used Diesel 55gal N/R Used Rags w POL 55gal N/R Used Oil Filters 55gal N/R Used Drysweep 55gal N/R Empty Oil Cans 55gal N/R Used Grease 55gal",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07695715615645,-106.1750632082199"
+  },
+  {
+    "name": "9527 B",
+    "longitude": -106.1752850750565,
+    "latitude": 32.07738428041683,
+    "altitude": 1252.843247122227,
+    "description": "NRAP 9527 B Pride Utility Section POC: Hector Servian (915) 726-4295 Justin Hernandez Waste Steams: N/R Used Diesel 16gal N/R Recyclable Metal Fuel Filters 30gal",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07738428041683,-106.1752850750565"
+  },
+  {
+    "name": "9587 A",
+    "longitude": -106.1711626186064,
+    "latitude": 32.07871856183142,
+    "altitude": 1254.450612630598,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07871856183142,-106.1711626186064"
+  },
+  {
+    "name": "9587 B",
+    "longitude": -106.1709726058013,
+    "latitude": 32.07853177328788,
+    "altitude": 1254.554053458679,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07853177328788,-106.1709726058013"
+  },
+  {
+    "name": "9586 A",
+    "longitude": -106.1715533146276,
+    "latitude": 32.07897657611905,
+    "altitude": 1254.095511196979,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07897657611905,-106.1715533146276"
+  },
+  {
+    "name": "9586 B",
+    "longitude": -106.1715444593006,
+    "latitude": 32.07871826915451,
+    "altitude": 1254.095527274458,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07871826915451,-106.1715444593006"
+  },
+  {
+    "name": "9583 A",
+    "longitude": -106.1722143707962,
+    "latitude": 32.07935846167501,
+    "altitude": 1253.639095607339,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07935846167501,-106.1722143707962"
+  },
+  {
+    "name": "9599 A",
+    "longitude": -106.1644171921124,
+    "latitude": 32.0724228816105,
+    "altitude": 1253.064814775321,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.0724228816105,-106.1644171921124"
+  },
+  {
+    "name": "9599 B",
+    "longitude": -106.1642169830468,
+    "latitude": 32.07198485653016,
+    "altitude": 1254.163096350997,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07198485653016,-106.1642169830468"
+  },
+  {
+    "name": "9512 A",
+    "longitude": -106.1756487749375,
+    "latitude": 32.0771103802992,
+    "altitude": 1252.283713433904,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.0771103802992,-106.1756487749375"
+  },
+  {
+    "name": "9503 A",
+    "longitude": -106.1764979354627,
+    "latitude": 32.07906288084908,
+    "altitude": 1253.611025299369,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.07906288084908,-106.1764979354627"
+  },
+  {
+    "name": "9940 B",
+    "longitude": -106.2593936261447,
+    "latitude": 32.06456213545515,
+    "altitude": 1243.779261904516,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.06456213545515,-106.2593936261447"
+  },
+  {
+    "name": "9940 A",
+    "longitude": -106.2593574300892,
+    "latitude": 32.06457904333727,
+    "altitude": 1243.746171280993,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.06457904333727,-106.2593574300892"
+  },
+  {
+    "name": "11185 A",
+    "longitude": -106.3958829434267,
+    "latitude": 31.82836006908212,
+    "altitude": 1194.985970664594,
+    "description": "",
+    "googleMapsUrl": "https://www.google.com/maps?q=31.82836006908212,-106.3958829434267"
+  },
+  {
+    "name": "9464 A",
+    "longitude": -106.1805609197509,
+    "latitude": 32.08010376360736,
+    "altitude": 1252.149588147859,
+    "description": "SAA 9464 A McGregor AAFES POC: Gavin Turner (915) 569-9023 Waste Streams: HW Toxic Nicotine 1qt UW Aerosol Cans 5gal",
+    "googleMapsUrl": "https://www.google.com/maps?q=32.08010376360736,-106.1805609197509"
+  }
+]

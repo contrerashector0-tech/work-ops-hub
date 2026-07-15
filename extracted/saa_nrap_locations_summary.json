@@ -1,0 +1,63 @@
+{
+  "source_file": "C:\\Users\\Hector\\.openclaw\\media\\inbound\\SAA_NRAP_Locations---828511ba-cd9f-4242-9e69-fbf97d5a0fad.xml",
+  "placemark_count": 113,
+  "described_count": 7,
+  "sample_described": [
+    {
+      "name": "1067 A",
+      "longitude": -106.4225893541879,
+      "latitude": 31.81085170065564,
+      "altitude": 1183.258839342092,
+      "description": "SAA 1067 A 212th Military Police POC: SPC Richardson, Michael (540) 616-8164 Altaha, Wes Waste Streams: UW Aerosol Cans 55gal N/R Recyclable Jet Fuel 55gal N/R Used Green Antifreeze 55gal N/R Used Rags w POL 55gal N/R Used Oil Filters 55gal N/R Recyclable Metal Fuel Filters 55gal N/R Empty Oil Cans 55gal N/R Used Drysweep 55gal N/R Used Grease 55gal",
+      "googleMapsUrl": "https://www.google.com/maps?q=31.81085170065564,-106.4225893541879"
+    },
+    {
+      "name": "1050 A",
+      "longitude": -106.4257293043905,
+      "latitude": 31.81123301682002,
+      "altitude": 1186.713299436408,
+      "description": "SAA 1050 A 978th Military Police POC: SFC Rodriguez, Eddie (760) 208-0201 Waste Streams: HW Toxic Jet Fuel cont. w Benzene 55gal UW Aerosol Cans 55gal N/R Used Oil 55gal N/R Used Rags w POL 55gal N/R Used Oil Filters 55gal N/R Recyclable Metal Fuel Filters 55gal N/R Used Green Antifreeze 55gal N/R Empty Oil Cans 55gal N/R Used Grease 55gal N/R Used Drysweep 55gal",
+      "googleMapsUrl": "https://www.google.com/maps?q=31.81123301682002,-106.4257293043905"
+    },
+    {
+      "name": "1251 A",
+      "longitude": -106.4234104977354,
+      "latitude": 31.81554277948141,
+      "altitude": 1186.13965678482,
+      "description": "NRAP 1251A Pride Electric POC: Hector Servian (915) 726-4295 Waste Streams: -UW Fluorescent Lamps x5 + 1Long + 1Small -UW Lithium Batteries 55gal -UW Lead Acid Batteries 55gal -UW NiCad Batteries 55gal -UW Aerosol Cans 30gal -N/R Used Ballasts -N/R Used Rags w POL -N/R Empty Oil Cans 55gal -N/R Used Oil Filters 55gal -N/R Used Oil 55gal -N/R Used Green Antifreeze 55gal",
+      "googleMapsUrl": "https://www.google.com/maps?q=31.81554277948141,-106.4234104977354"
+    },
+    {
+      "name": "2592 B",
+      "longitude": -106.4206459441779,
+      "latitude": 31.82471641710735,
+      "altitude": 1194.755137435129,
+      "description": "docs.google.com/document/d/12NjjhzqIdTMJiFrw_oSHmWOh1oTgpmkh3aLX_31rIp4/edit Sap 2592 B H/W Fiber Fuel Filters 55gal U/W Mixed Aerosol Cans 55gal Used Rags cont w/ pol 55gal Used Drysweep cont w/pol Empty Oil cans 55gal Recycle Metal Fuel Filters 55gal Soil cont w/ pol 55gal Seals cont w/pol 55gal Oil Filters 55gal Grease 55gal",
+      "googleMapsUrl": "https://www.google.com/maps?q=31.82471641710735,-106.4206459441779"
+    },
+    {
+      "name": "9527 A",
+      "longitude": -106.1750632082199,
+      "latitude": 32.07695715615645,
+      "altitude": 1252.244241110771,
+      "description": "NRAP 9527 A Pride Utility Section POC: Hector Servian (915) 726-4295 Justin Hernandez Waste Streams: UW Aerosol Cans 55gal N/R Used Oil 55gal N/R Used Green Antifreeze 55gal N/R Used Diesel 55gal N/R Used Rags w POL 55gal N/R Used Oil Filters 55gal N/R Used Drysweep 55gal N/R Empty Oil Cans 55gal N/R Used Grease 55gal",
+      "googleMapsUrl": "https://www.google.com/maps?q=32.07695715615645,-106.1750632082199"
+    },
+    {
+      "name": "9527 B",
+      "longitude": -106.1752850750565,
+      "latitude": 32.07738428041683,
+      "altitude": 1252.843247122227,
+      "description": "NRAP 9527 B Pride Utility Section POC: Hector Servian (915) 726-4295 Justin Hernandez Waste Steams: N/R Used Diesel 16gal N/R Recyclable Metal Fuel Filters 30gal",
+      "googleMapsUrl": "https://www.google.com/maps?q=32.07738428041683,-106.1752850750565"
+    },
+    {
+      "name": "9464 A",
+      "longitude": -106.1805609197509,
+      "latitude": 32.08010376360736,
+      "altitude": 1252.149588147859,
+      "description": "SAA 9464 A McGregor AAFES POC: Gavin Turner (915) 569-9023 Waste Streams: HW Toxic Nicotine 1qt UW Aerosol Cans 5gal",
+      "googleMapsUrl": "https://www.google.com/maps?q=32.08010376360736,-106.1805609197509"
+    }
+  ]
+}
