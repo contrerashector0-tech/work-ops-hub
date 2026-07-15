@@ -228,6 +228,18 @@ h3 {
   border-style: dashed;
 }
 
+.route-link {
+  display: inline-flex;
+  margin-top: 8px;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.route-link:hover {
+  text-decoration: underline;
+}
+
 .chip-row {
   display: flex;
   flex-wrap: wrap;
