@@ -4,16 +4,18 @@
 
 Received and extracted:
 - `Copy_of_Curbside_1_Route.xlsx`
+- `H.W.F.S---0cba8b41-103a-4727-bc20-0f56f56b02c6.xlsx` (confirmed by Hector as the Curbside 2 source)
 - `Copy_of_Curbside_3_Route.xlsx`
 - `Copy_of_PARTS_WASHERS.xlsx`
-
-Still missing as uploaded file:
-- `Copy_of_Curbside_2_Route.xlsx`
+- `SAA_NRAP_Locations---828511ba-cd9f-4242-9e69-fbf97d5a0fad.xml` (Google Earth/KML export)
 
 Extracted JSON output saved in:
 - `C:\Users\Hector\Documents\Projects\curbside-reference\extracted\curbside1.json`
+- `C:\Users\Hector\Documents\Projects\curbside-reference\extracted\curbside2.json`
 - `C:\Users\Hector\Documents\Projects\curbside-reference\extracted\curbside3.json`
 - `C:\Users\Hector\Documents\Projects\curbside-reference\extracted\parts-washers.json`
+- `C:\Users\Hector\Documents\Projects\curbside-reference\extracted\saa_nrap_locations.json`
+- `C:\Users\Hector\Documents\Projects\curbside-reference\extracted\saa_nrap_locations_summary.json`
 
 ---
 
@@ -92,17 +94,17 @@ Examples seen during extraction:
 ---
 
 ## Notes
-- Curbside 2 has not yet been uploaded as an XLSX file in this chat.
-- Once Curbside 2 is uploaded, it should be extracted and compared against Curbside 1 and 3.
-- Before building the actual website, the files should be checked for:
-  - duplicate routes
-  - naming consistency
-  - whether each sheet really maps to the intended team
+- Curbside 2 is now loaded from `H.W.F.S---0cba8b41-103a-4727-bc20-0f56f56b02c6.xlsx`.
+- The extracted Curbside 2 building set currently resolves to: `11108`, `13433`, `13430`, `13448`, and `2527`.
+- In that workbook, values like `2450`, `1450`, and `8350` appear to be SAA/series values rather than building numbers, so they were not treated as buildings.
+- The Earth export currently matches Curbside 2 buildings `13433`, `13430`, `13448`, and `2527`.
+- `11108` is present in the Curbside 2 workbook but does not currently appear in the Earth export.
+- Curbside 1 and Curbside 3 extracted files still appear to contain the same building set and should be verified later.
 
 ---
 
 ## Recommended next step
-1. Upload `Copy_of_Curbside_2_Route.xlsx`
-2. Verify whether Curbside 1 and Curbside 3 are truly different
-3. Build a normalized reference structure from all extracted files
-4. Then start the real website design
+1. Verify whether Curbside 1 and Curbside 3 are truly different
+2. Improve the Earth source over time so more route buildings move from "not found" to exact pin matches
+3. Add parking, entrance, and reporting notes per building or route
+4. Optionally add search and matched/unmatched counts directly in the live site
