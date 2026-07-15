@@ -289,21 +289,15 @@
       const form = document.getElementById('gate-form')
       const input = document.getElementById('password-input')
       const error = document.getElementById('gate-error')
-      const storageKey = 'workOpsHubUnlocked'
 
       function unlockSite() {
         gate.style.display = 'none'
         siteContent.classList.remove('site-content--hidden')
       }
 
-      if (localStorage.getItem(storageKey) === 'true') {
-        unlockSite()
-      }
-
       form.addEventListener('submit', (event) => {
         event.preventDefault()
         if (input.value === SITE_PASSWORD) {
-          localStorage.setItem(storageKey, 'true')
           unlockSite()
         } else {
           error.textContent = 'Wrong password. Try again.'
