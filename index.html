@@ -7,124 +7,142 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="hero">
-      <div class="hero__content">
-        <p class="eyebrow">Hector work dashboard</p>
+    <div class="gate" id="gate">
+      <div class="gate__card">
+        <p class="eyebrow">Protected access</p>
         <h1>Work Ops Hub</h1>
-        <p class="hero__copy">
-          One place for route references, building notes, and the programs you use during the workday.
-          This first version is built with the real source files we already have and is ready to grow.
+        <p class="gate__copy">
+          This site is intended for work use. Enter the shared password to continue.
         </p>
-        <div class="hero__actions">
-          <a href="#routes" class="button button--primary">Open routes</a>
-          <a href="#programs" class="button button--ghost">Open work tools</a>
-        </div>
+        <form class="gate__form" id="gate-form">
+          <input type="password" id="password-input" placeholder="Enter password" autocomplete="current-password" />
+          <button type="submit" class="button button--primary">Enter</button>
+        </form>
+        <p class="gate__error" id="gate-error"></p>
       </div>
-    </header>
+    </div>
 
-    <main>
-      <section class="section" id="programs">
-        <div class="section__heading">
-          <p class="eyebrow">Programs and tools</p>
-          <h2>Quick launch</h2>
+    <div id="site-content" class="site-content site-content--hidden">
+      <header class="hero">
+        <div class="hero__content hero__content--full">
+          <p class="eyebrow">Hector work dashboard</p>
+          <h1>Work Ops Hub</h1>
+          <p class="hero__copy">
+            One place for route references, building notes, and the programs you use during the workday.
+          </p>
+          <div class="hero__actions">
+            <a href="#routes" class="button button--primary">Open routes</a>
+            <a href="#programs" class="button button--ghost">Open work tools</a>
+          </div>
         </div>
-        <div class="grid grid--three">
-          <a class="card link-card" href="https://outlook.office365.us/mail/" target="_blank" rel="noreferrer">
-            <h3>Outlook</h3>
-            <p>Mail and work communication.</p>
-            <span>Open link ↗</span>
-          </a>
-          <a class="card link-card" href="https://hwims.us/Units" target="_blank" rel="noreferrer">
-            <h3>HWIMS Units</h3>
-            <p>Unit lookup and work reference access.</p>
-            <span>Open link ↗</span>
-          </a>
-          <a class="card link-card" href="https://qrcodechecklist-baaedrceayb4bmeq.centralus-01.azurewebsites.net/Account/SignIn.aspx" target="_blank" rel="noreferrer">
-            <h3>QR Code Checklist</h3>
-            <p>Checklist login and scan workflow.</p>
-            <span>Open link ↗</span>
-          </a>
-        </div>
-      </section>
+      </header>
 
-      <section class="section" id="routes">
-        <div class="section__heading">
-          <p class="eyebrow">Routes</p>
-          <h2>Current route sections</h2>
-        </div>
-        <div class="route-stack">
-          <article class="card route-card">
-            <div class="route-card__header">
-              <div>
-                <p class="route-card__label">Route 1</p>
-                <h3>Curbside 1</h3>
+      <main>
+        <section class="section" id="programs">
+          <div class="section__heading">
+            <p class="eyebrow">Programs and tools</p>
+            <h2>Quick launch</h2>
+          </div>
+          <div class="grid grid--three">
+            <a class="card link-card" href="https://outlook.office365.us/mail/" target="_blank" rel="noreferrer">
+              <h3>Outlook</h3>
+              <p>Mail and work communication.</p>
+              <span>Open link ↗</span>
+            </a>
+            <a class="card link-card" href="https://hwims.us/Units" target="_blank" rel="noreferrer">
+              <h3>HWIMS Units</h3>
+              <p>Unit lookup and work reference access.</p>
+              <span>Open link ↗</span>
+            </a>
+            <a class="card link-card" href="https://qrcodechecklist-baaedrceayb4bmeq.centralus-01.azurewebsites.net/Account/SignIn.aspx" target="_blank" rel="noreferrer">
+              <h3>QR Code Checklist</h3>
+              <p>Checklist login and scan workflow.</p>
+              <span>Open link ↗</span>
+            </a>
+          </div>
+        </section>
+
+        <section class="section" id="routes">
+          <div class="section__heading">
+            <p class="eyebrow">Routes</p>
+            <h2>Current route sections</h2>
+          </div>
+          <div class="route-stack">
+            <article class="card route-card">
+              <div class="route-card__header">
+                <div>
+                  <p class="route-card__label">Route 1</p>
+                  <h3>Curbside 1</h3>
+                </div>
+                <span class="pill pill--ready">Loaded from file</span>
               </div>
-              <span class="pill pill--ready">Loaded from file</span>
-            </div>
-            <a class="route-link" href="https://docs.google.com/spreadsheets/d/1H85ZpQA_Y03t_AkJvjCt5WCvdU7NZgGS/edit?usp=drivesdk&ouid=111385552030588163155&rtpof=true&sd=true" target="_blank" rel="noreferrer">Open Curbside 1 workbook ↗</a>
-          </article>
+              <a class="route-link" href="https://docs.google.com/spreadsheets/d/1H85ZpQA_Y03t_AkJvjCt5WCvdU7NZgGS/edit?usp=drivesdk&ouid=111385552030588163155&rtpof=true&sd=true" target="_blank" rel="noreferrer">Open Curbside 1 workbook ↗</a>
+            </article>
 
-          <article class="card route-card route-card--pending">
-            <div class="route-card__header">
-              <div>
-                <p class="route-card__label">Route 2</p>
-                <h3>Curbside 2</h3>
+            <article class="card route-card route-card--pending">
+              <div class="route-card__header">
+                <div>
+                  <p class="route-card__label">Route 2</p>
+                  <h3>Curbside 2</h3>
+                </div>
+                <span class="pill pill--pending">Workbook linked, extraction pending</span>
               </div>
-              <span class="pill pill--pending">Workbook linked, extraction pending</span>
-            </div>
-            <a class="route-link" href="https://docs.google.com/spreadsheets/d/1hAtd8Y5KUy1WSxQ9pfWVB6ubcelDimlI/edit?usp=drivesdk&ouid=111385552030588163155&rtpof=true&sd=true" target="_blank" rel="noreferrer">Open Curbside 2 workbook ↗</a>
-          </article>
+              <a class="route-link" href="https://docs.google.com/spreadsheets/d/1hAtd8Y5KUy1WSxQ9pfWVB6ubcelDimlI/edit?usp=drivesdk&ouid=111385552030588163155&rtpof=true&sd=true" target="_blank" rel="noreferrer">Open Curbside 2 workbook ↗</a>
+            </article>
 
-          <article class="card route-card">
-            <div class="route-card__header">
-              <div>
-                <p class="route-card__label">Route 3</p>
-                <h3>Curbside 3</h3>
+            <article class="card route-card">
+              <div class="route-card__header">
+                <div>
+                  <p class="route-card__label">Route 3</p>
+                  <h3>Curbside 3</h3>
+                </div>
+                <span class="pill pill--ready">Loaded from file</span>
               </div>
-              <span class="pill pill--ready">Loaded from file</span>
-            </div>
-            <a class="route-link" href="https://docs.google.com/spreadsheets/d/1gJi1QGXw5Rs0r48o774Blni4LHHFfrjW/edit?usp=drivesdk&ouid=111385552030588163155&rtpof=true&sd=true" target="_blank" rel="noreferrer">Open Curbside 3 workbook ↗</a>
-          </article>
+              <a class="route-link" href="https://docs.google.com/spreadsheets/d/1gJi1QGXw5Rs0r48o774Blni4LHHFfrjW/edit?usp=drivesdk&ouid=111385552030588163155&rtpof=true&sd=true" target="_blank" rel="noreferrer">Open Curbside 3 workbook ↗</a>
+            </article>
 
-          <article class="card route-card">
-            <div class="route-card__header">
-              <div>
-                <p class="route-card__label">Route 4</p>
-                <h3>Parts Wash</h3>
+            <article class="card route-card">
+              <div class="route-card__header">
+                <div>
+                  <p class="route-card__label">Route 4</p>
+                  <h3>Parts Wash</h3>
+                </div>
+                <span class="pill pill--ready">Loaded from file</span>
               </div>
-              <span class="pill pill--ready">Loaded from file</span>
-            </div>
-            <a class="route-link" href="https://docs.google.com/spreadsheets/d/11J3IA7ZGfZ5SCLYVHoU7mm-L6STuuGVsy11289b2rYo/edit?usp=drivesdk" target="_blank" rel="noreferrer">Open Parts Wash workbook ↗</a>
-          </article>
-        </div>
-      </section>
+              <a class="route-link" href="https://docs.google.com/spreadsheets/d/11J3IA7ZGfZ5SCLYVHoU7mm-L6STuuGVsy11289b2rYo/edit?usp=drivesdk" target="_blank" rel="noreferrer">Open Parts Wash workbook ↗</a>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
 
-      <section class="section" id="notes">
-        <div class="section__heading">
-          <p class="eyebrow">Current notes</p>
-          <h2>Known updates still needed</h2>
-        </div>
-        <div class="grid grid--two">
-          <article class="card">
-            <h3>What still needs to be added</h3>
-            <ul class="note-list">
-              <li>Curbside 2 workbook extraction</li>
-              <li>Program labels for the 2 App Store links</li>
-              <li>Building map links and location pins</li>
-              <li>Parking, entrance, and reporting notes</li>
-            </ul>
-          </article>
-          <article class="card">
-            <h3>Next upgrade direction</h3>
-            <ul class="note-list">
-              <li>Add route detail pages per weekday</li>
-              <li>Create building cards with map actions</li>
-              <li>Add a home dashboard for quick route selection</li>
-              <li>Later add search and mobile shortcut behavior</li>
-            </ul>
-          </article>
-        </div>
-      </section>
-    </main>
+    <script>
+      const SITE_PASSWORD = 'btc915'
+      const gate = document.getElementById('gate')
+      const siteContent = document.getElementById('site-content')
+      const form = document.getElementById('gate-form')
+      const input = document.getElementById('password-input')
+      const error = document.getElementById('gate-error')
+      const storageKey = 'workOpsHubUnlocked'
+
+      function unlockSite() {
+        gate.style.display = 'none'
+        siteContent.classList.remove('site-content--hidden')
+      }
+
+      if (localStorage.getItem(storageKey) === 'true') {
+        unlockSite()
+      }
+
+      form.addEventListener('submit', (event) => {
+        event.preventDefault()
+        if (input.value === SITE_PASSWORD) {
+          localStorage.setItem(storageKey, 'true')
+          unlockSite()
+        } else {
+          error.textContent = 'Wrong password. Try again.'
+        }
+      })
+    </script>
   </body>
 </html>

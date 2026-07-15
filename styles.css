@@ -30,6 +30,53 @@ body {
     linear-gradient(180deg, #07111d 0%, #09111f 45%, #050b15 100%);
 }
 
+.site-content--hidden {
+  display: none;
+}
+
+.gate {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 18px;
+}
+
+.gate__card {
+  width: min(460px, 100%);
+  padding: 28px;
+  border-radius: 28px;
+  border: 1px solid var(--line);
+  background: var(--bg-soft);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(14px);
+}
+
+.gate__copy {
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.gate__form {
+  display: grid;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.gate__form input {
+  width: 100%;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+}
+
+.gate__error {
+  min-height: 20px;
+  margin: 12px 0 0;
+  color: #ff9f9f;
+}
+
 main,
 .hero {
   width: min(1180px, calc(100% - 32px));
