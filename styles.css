@@ -407,6 +407,11 @@ h3 {
   text-decoration: none;
 }
 
+.map-note-card--missing p {
+  margin-top: 10px;
+  font-size: 0.95rem;
+}
+
 @media (max-width: 980px) {
   .hero,
   .grid--three,
