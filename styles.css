@@ -309,6 +309,46 @@ h3 {
   font-size: 0.9rem;
 }
 
+.contact-route-list {
+  display: grid;
+  gap: 18px;
+}
+
+.contact-table-wrap {
+  overflow-x: auto;
+  margin-top: 12px;
+}
+
+.contact-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 780px;
+}
+
+.contact-table th,
+.contact-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.contact-table th {
+  color: var(--muted);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.contact-table td {
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.contact-route-card p.section-copy {
+  margin: 0;
+}
+
 .map-filter {
   display: flex;
   flex-wrap: wrap;
